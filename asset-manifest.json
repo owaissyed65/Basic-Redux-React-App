@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Basic-Redux-React-App/static/css/main.31d6cfe0.css",
+    "main.js": "/Basic-Redux-React-App/static/js/main.ce9bbd20.js",
+    "static/js/787.174f8a24.chunk.js": "/Basic-Redux-React-App/static/js/787.174f8a24.chunk.js",
+    "index.html": "/Basic-Redux-React-App/index.html",
+    "main.ce9bbd20.js.map": "/Basic-Redux-React-App/static/js/main.ce9bbd20.js.map",
+    "787.174f8a24.chunk.js.map": "/Basic-Redux-React-App/static/js/787.174f8a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ce9bbd20.js"
+  ]
+}
